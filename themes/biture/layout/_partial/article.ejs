@@ -26,7 +26,9 @@
         <% } %>
       </div>
       <footer><div class="article-comment">
-        <%- partial('comment') %>
+	<% if(!index){ %>
+        	<%- partial('comment') %>
+	<% } %>
       </div></footer>
     </div>
   </div>

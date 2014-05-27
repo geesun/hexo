@@ -1,22 +1,24 @@
 # Header
 menu:
-  home: /
-  dropdown menu:
+  HOME: /
+  Android Apps:
+    google: //google.com/
+    yahoo:  //yahoo.com/
+  iOS Apps:
     google: //google.com/
     yahoo:  //yahoo.com/
 
 extmenu:
-  github: //github.com/kywk/
-  hexo: //zespia.tw/hexo/
-  theme:
-    biture: //github.com/kywk/hexo-theme-biture
-    landscape: //github.com/tommy351/hexo-theme-landscape
-    light: //github.com/tommy351/hexo-theme-light
+  github: //github.com/geesun/
+#  theme:
+#    biture: //github.com/kywk/hexo-theme-biture
+#    landscape: //github.com/tommy351/hexo-theme-landscape
+#    light: //github.com/tommy351/hexo-theme-light
 
 # Content
 excerpt_link: Read More
 
-fancybox: true
+fancybox: false 
 
 # Miscellaneous
 google_analytics:
