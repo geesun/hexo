@@ -1,12 +1,12 @@
 # Header
 menu:
-  HOME: /
-  Android Apps:
-    google: //google.com/
-    yahoo:  //yahoo.com/
-  iOS Apps:
-    google: //google.com/
-    yahoo:  //yahoo.com/
+  APPS:
+    Android Apps:
+      google: //google.com/
+      yahoo:  //yahoo.com/
+    iOS Apps:
+      google: //google.com/
+      yahoo:  //yahoo.com/
 
 extmenu:
   github: //github.com/geesun/
