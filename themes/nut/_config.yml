@@ -9,9 +9,6 @@ menu:
 - name: Tags
   path: /tags
   logo: tags
-- name: Wiki
-  path: /wiki
-  logo: book
 - name: About
   path: /about
   logo: user
@@ -52,13 +49,16 @@ favicon: /favicon.ico
 twitter:
 google_plus:
 
-links:
-- name: Github
-  url: https://github.com/
-  logo: github
-- name: Google+
-  url: https://plus.google.com/
-  logo: google-plus
+#links:
+#- name: Github
+#  url: https://github.com/
+#  logo: github
+#- name: Google+
+#  url: https://plus.google.com/
+#  logo: google-plus
+#- name: Google Play
+#  url: https://play.google.com/
+#  logo: google-play
 
 feed:
   type: atom
