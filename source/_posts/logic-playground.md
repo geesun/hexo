@@ -33,7 +33,7 @@ This educational game includes 5 different levels and more than 60 types of task
 
 The game supports both smartphone and Pad. We recommend it both to parents and to education professionals.Your kid will be engaged by the colorful graphics, variety of tasks and feelings of progress as each task is solved.
 
-Going ‘Logic playground’ right now !
+__Going play ‘[Logic playground](https://play.google.com/store/apps/details?id=com.gmail.geesun.logic4kids)’ right now !__
 
 ![logo](/img/logic_playground.png)
     
