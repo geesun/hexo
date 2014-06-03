@@ -39,7 +39,8 @@ __Going play ‘[Logic playground](https://play.google.com/store/apps/details?id
     
 # Download 
 
-[Google Play](https://play.google.com/store/apps/details?id=com.gmail.geesun.logic4kids)
+[Google Play](https://play.google.com/store/apps/details?id=com.gmail.geesun.logic4kids)  
+[iOS](https://itunes.apple.com/us/app/logic-playground/id882227319)
 
 
 
